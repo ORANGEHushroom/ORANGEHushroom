@@ -1,5 +1,7 @@
-### Hi there 👋
+### 안녕하세요! 😃
 
+ 잔디농장을 키워나갈 노한나입니다
+ 
 <!--
 **ORANGEHushroom/ORANGEHushroom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
