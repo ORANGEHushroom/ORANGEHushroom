@@ -2,6 +2,8 @@
 
  잔디농장을 키워나갈 노한나입니다.
  
+ Hi! Please contact me via e-mail(hee_hannah@naver.com) or phone.
+ 
 <!--
 **ORANGEHushroom/ORANGEHushroom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
